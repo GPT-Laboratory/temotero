@@ -1,0 +1,9 @@
+#fastapi
+#uvicorn
+ollama
+python-dotenv
+faiss-cpu
+numpy
+
+streamlit
+reportlab
